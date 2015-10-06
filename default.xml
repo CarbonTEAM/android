@@ -71,7 +71,7 @@
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" />
-  <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" remote="cm" />
+  <project path="development" name="CarbonROM/android_development" groups="pdk-cw-fs" remote="carbon" />
 
   <!-- Devices -->
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs" remote="cm" />
@@ -392,7 +392,7 @@
   <project path="frameworks/minikin" name="CyanogenMod/android_frameworks_minikin" groups="pdk-cw-fs" remote="cm" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" remote="cm" />
   <project path="frameworks/multidex" name="CyanogenMod/android_frameworks_multidex" groups="pdk-cw-fs" remote="cm" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" remote="cm" />
+  <project path="frameworks/native" name="CarbonROM/android_frameworks_native" groups="pdk" remote="carbon" />
   <project path="frameworks/opt/bitmap" name="CyanogenMod/android_frameworks_opt_bitmap" remote="cm" />
   <project path="frameworks/opt/bluetooth" name="CyanogenMod/android_frameworks_opt_bluetooth" groups="pdk-cw-fs" remote="cm" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" remote="cm" />
