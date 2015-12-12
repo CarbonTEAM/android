@@ -617,7 +617,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" remote="aosp" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" />
   <project path="sdk" name="platform/sdk" remote="aosp" />
-  <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" remote="cm" />
+  <project path="system/core" name="StelixROM/android_system_core" groups="pdk" remote="carbon" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" remote="cm" />
   <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" remote="cm" />
   <project path="system/keymaster" name="CyanogenMod/android_system_keymaster" groups="pdk" remote="cm" />
